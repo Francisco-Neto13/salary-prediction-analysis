@@ -1,0 +1,6 @@
+Bibliotecas utilizadas na atividade:
+
+https://pandas.pydata.org/
+https://seaborn.pydata.org/
+https://scikit-learn.org/stable/
+https://matplotlib.org/

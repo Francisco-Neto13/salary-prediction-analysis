@@ -1,0 +1,6 @@
+# Só dar "pip install -r requirements.txt"
+
+pandas
+scikit-learn
+matplotlib
+seaborn
