@@ -14,12 +14,13 @@ Regressão Logística – abordagem nativa para classificação binária.
 O dataset contém variáveis demográficas e socioeconômicas de indivíduos.
 A variável alvo é salary, com valores:
 
-<=50K (classe 0 – majoritária);
-> 50K (classe 1 – minoritária).
+-'<=50K' (classe 0 – majoritária)
+
+-'>50K' (classe 1 – minoritária)
 
 Exemplos de variáveis:
-Numéricas: age, hours-per-week, capital-gain
-Categóricas: workclass, education, occupation, sex
+- **Numéricas**: age, hours-per-week, capital-gain
+- **Categóricas**: workclass, education, occupation, sex
 
 ---
 
